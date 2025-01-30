@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "hello",
-      "category": "Know",
+      "category": "knowledge",
       "content": ""
     },
     {
@@ -21,37 +21,37 @@
     {
       "id": 4,
       "title": "hello",
-      "category": "",
+      "category": "knowledge",
       "content": ""
     },
     {
       "id": 5,
       "title": "hello",
-      "category": "",
+      "category": "interpretations",
       "content": ""
     },
     {
       "id": 6,
       "title": "hello",
-      "category": "",
+      "category": "interpretations",
       "content": ""
     },
     {
       "id": 7,
       "title": "hello",
-      "category": "",
+      "category": "interpretations",
       "content": ""
     },
     {
       "id": 8,
       "title": "hello",
-      "category": "",
+      "category": "access",
       "content": ""
     },
     {
       "id": 9,
       "title": "hello",
-      "category": "",
+      "category": "access",
       "content": ""
     },
     {
